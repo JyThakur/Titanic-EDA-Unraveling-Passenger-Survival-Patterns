@@ -2,7 +2,7 @@
 ---
 ## **Problem Statement** 
 ---
-#### To understand the behavior and correlation of all the variables against Target varibale **Survived**. 
+### To understand the behavior and correlation of all the variables against Target varibale **Survived**. 
 Note: EDA (Exploratory Data Analysis) steps will be performed to attempt a solution for given problem statement.  
 ---
 ## **EDA steps to be accomplished** 
