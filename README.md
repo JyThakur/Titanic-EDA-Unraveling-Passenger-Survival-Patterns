@@ -15,7 +15,7 @@ Note: EDA (Exploratory Data Analysis) steps will be performed to attempt a solut
     - Survived Vs Pclass 
     - Survived Vs Sex 
     - Survived Vs Age 
-      - Survived Vs Age_Bins 
+     - Survived Vs Age_Bins 
     - Survived Vs SibSp 
     - Survived Vs Parch 
     - Survived Vs Embarked 
