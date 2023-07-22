@@ -2,8 +2,8 @@
 ---
 ## **Problem Statement** 
 ---
-### To understand the behavior and correlation of all the variables against Target varibale **Survived**. 
-Note: EDA (Exploratory Data Analysis) steps will be performed to attempt a solution for given problem statement.  
+### To understand the behaviour and correlation of all the variables against the Target variable **Survived**. 
+Note: EDA (Exploratory Data Analysis) steps will be performed to attempt a solution for the given problem statement.  
 ---
 ## **EDA steps to be accomplished** 
 ---
@@ -22,4 +22,7 @@ Note: EDA (Exploratory Data Analysis) steps will be performed to attempt a solut
 3. Data Preparation 
   - Dropping Irrelevant variables 
   - Convert Categorical variables to Ordinal variables 
-  - Visualize Correlation between all variables
+  - Visualize the Correlation between all variables
+---
+## **Conclusion**
+---
