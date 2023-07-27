@@ -1,8 +1,8 @@
-# Titanic_Data_Analysis_EDA
+# Titanic EDA: Unraveling Passenger Survival Patterns
 ---
 ## **Problem Statement** 
 ---
-### To understand the behaviour and correlation of all the variables against the Target variable **Survived**. 
+To understand the behaviour and correlation of all the variables against the Target variable **Survived**. 
 Note: EDA (Exploratory Data Analysis) steps will be performed to attempt a solution for the given problem statement.  
 ---
 ## **EDA steps to be accomplished** 
